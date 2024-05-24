@@ -7,7 +7,7 @@ Backend: Java, Spring Boot, Spring Data Jpa, Hibernate, H2, lombok, swagger;
 Frontend: JavaScript, Html, CSS, Thymeleaf.
 
 # Endpoints
-Все эндпоинты можно посмотреть через swagger по ссылки после запуска приложения.
+Все эндпоинты можно посмотреть через swagger по ссылке после запуска приложения.
 Ссылка - http://localhost:8080/swagger-ui/index.html#/
 
 # Запуск
